@@ -79,6 +79,7 @@
         background-size: cover;
         background-attachment: fixed;
         height: 100vh;
+        object-fit: fill;
     }
     .subtitulo{
         width: 70%;
